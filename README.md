@@ -2,7 +2,7 @@
 
 - I’m interested in data science/business analytics. 
 
-- I’m currently learning various techniques to analyze data through data wrangling/mining and the use of Python and SQL.
+- I’m currently learning various techniques to analyze data through data wrangling/mining and the use of SQL, Python, and R.
 
 - I’m looking to collaborate on data analysis problems that require computational thinking
 
